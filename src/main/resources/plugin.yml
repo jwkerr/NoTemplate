@@ -1,0 +1,7 @@
+name: NoTemplate
+version: "${project.version}"
+main: net.earthmc.notemplate.NoTemplate
+api-version: "1.20"
+authors: [Fruitloopins]
+description: Remove the need for smithing templates
+website: https://earthmc.net
